@@ -25,7 +25,7 @@ There are two repositories for this project:
 
 | Repository | Contents | Use it to |
 |---|---|---|
-| **[KiCad9-ESP32-demo-project-v1](https://github.com/futureshocked/KiCad9-ESP32-demo-project-v1)** | Iteration 1, made in KiCad 9, with known errors | Follow the original lectures and see how the project developed |
+| **[KiCad9-ESP32-demo-project-v1](https://github.com/futureshocked/KiCad9-ESP32-demo-project-v1)** | Iteration 1: the original KiCad 9 files with known errors, and a focused repair of U2, U4 and the microphone output | Follow the original lectures and the repair video, and see how the project developed |
 | **KiCad9-ESP32-demo-project-v2-KiCad10** (this one) | Iteration 2, corrected and updated in KiCad 10 | Study, modify or manufacture the board |
 
 I have kept both so that the history of the project stays intact, while anyone who wants to experiment with the design, or have it made, has a clean and correct version to start from.
